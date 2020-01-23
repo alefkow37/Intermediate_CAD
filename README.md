@@ -16,3 +16,4 @@ The Advanced and Mechanical Mates assignment showed me how to use advanced mates
 
 
 <img src="images/advanced_mechanical_picture2.PNG" width="300" >
+
